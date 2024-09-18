@@ -2,7 +2,7 @@
 
 ## About
 Getting to know React.
-Completing three tasks of different levels of difficulty.
+This repository contains the development of the Weather Forecast layout, previously built using HTML/CSS, now re-implemented using React.
 
 ## Installation
 
